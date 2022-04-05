@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reducerAPI-by-React/static/css/main.563a4834.css",
+    "main.js": "/reducerAPI-by-React/static/js/main.90409d1e.js",
+    "static/media/logo.png": "/reducerAPI-by-React/static/media/logo.41aa8c90f3d2d6cc97ad.png",
+    "index.html": "/reducerAPI-by-React/index.html",
+    "main.563a4834.css.map": "/reducerAPI-by-React/static/css/main.563a4834.css.map",
+    "main.90409d1e.js.map": "/reducerAPI-by-React/static/js/main.90409d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.563a4834.css",
+    "static/js/main.90409d1e.js"
+  ]
+}
